@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl 40_flashcw_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.615000 0.742663 0.600693
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd FL_CW_A_1.png
